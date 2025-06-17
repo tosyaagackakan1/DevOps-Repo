@@ -1,0 +1,159 @@
+MEKKE
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+MEDİNE
+https://sbc-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+Kablonet
+https://raw.githubusercontent.com/emrcxcx/test/refs/heads/main/test.m3u
+
+otomatik güncellenen link
+http://stream.tvcdn.net/lists/tr.m3u
+RELAX TV BEİN
+http://bensitt.xyz:8080/get.php?username=srht0750&password=frht.0750&type=m3u
+vavoo
+https://joaquinito02.es/vavoo/index_Turkey.m3u
+Bein
+118416583faa3fb4f03800173429b6b844b43a52
+BEİN KULLAN kablo tv
+https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist1.m3u
+Bu listede sadece ulusal kanallar mevcuttur
+https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist2.m3u
+Bu listede ulusal + bein Sports kanallar mevcuttur
+https://sakultah.dev.tc/playlist1.m3u
+Bu listede sadece ulusal kanallar mevcuttur
+https://sakultah.dev.tc/playlist2.m3u
+Bu listede ulusal + bein Sports kanallar mevcuttur
+http://it1.com.mx:80/get.php?username=Vip&password=Vip&type=m3u&output=mpegts
+http://it1.com.mx:80/get.php?username=fresakuu&password=fresakuu&type=m3u
+http://it1.com.mx:80/get.php?username=fresakuu&password=fresakuu&type=m3u&output=mpegts
+BEİN
+https://mobil.92test.cfd/yayint24.m3u8
+
+justin Bein
+https://kapkara.space/cdn/bein_sports_1_hd/main.m3u8
+
+tabii
+https://v.arectv13.sbs/static/tabi1.m3u8
+
+https://koprulu1.global.ssl.fastly.net/app2/rectv.m3u
+
+https://surl.be/myway06
+
+digisport
+http://mehmetaslan.serv00.net/RDS?ID=digisport
+https://p13.magicplaces.eu/digisport1hd/index.m3u8?token=468024dfa3d1c98cb50453db919ba45f61d3d911-5584be39424382894f50c9902334de91-1738510435-1738499635&remote=no_check_ip
+
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
+https://r7hzhpnlar.zortspor1.online/601/index.m3u8  (BEİN)
+
+vavoo
+https://archive.org/download/vavoo-duz-kategori/Vavoo- Düz-Kategori.m3u
+https://joaquinito02.es/vavoo/index_Turkey.m3u
+https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/vavoo.m3u
+DEATHLESSIPTV VAVOO
+https://m3u.ch/pl/38a9b0d88491e5968bace9b01043aa83_1dcf2b5c3820214b4df4e0e89824eac1.m3u
+
+Tivi-bu 1=https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/t1.m3u8
+
+Tivi-bu 2=https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/t1.m3u8
+
+Tivi-bu 3=https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/t3.m3u8
+
+Tivi-bu 4=https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/t4.m3u8
+
+otomatik güncellenen link
+http://stream.tvcdn.net/lists/tr.m3u
+https://koprulu1.global.ssl.fastly.net/app3/guncellenen.m3u
+
+Kenidini güncelleyen M3U
+http://908ed7fe9e54.faststreem.org/playlists/uplist/614c67e9efc9a2cd368ac695545b5cc8/playlist.m3u 
+
+
+https://github.com/joaquinito2070/VAVOO-IPTV/tree/main
+
+https://receptioniptv.blogspot.com/p/liste-des-chaines-tv-par-pays.html
+
+Turknet kanalları
+Atv HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+KanalD
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+teve2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+Star
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv.m3u8
+Now HD
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+KANAL 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
+HABERTURK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+SHOW
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+MINIKA COCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+MINIKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+Ntv
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv.m3u8
+Tlc
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc.m3u8
+Dmax
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax.m3u8
+Kral pop
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv.m3u8
+Showmax
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+Aspor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+Bloomberg Ht
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
+
+
+Be*IN Sports 1 =https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
+
+Be*IN Sports 2 =https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs2.m3u8
+
+Be*IN Sports 3 =https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs3.m3u8
+
+Be*IN Sports 4 =https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs4.m3u8
+
+Be*IN Sports 5 =https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs5.m3u8
+
+Sakultah
+S-Spor https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist1.m3u
+
+
+YURTDIŞINDA OLANLARA ÖZEL BE*IN 1 LİNKİ
+https://forum.sinetech.tr/redirect?to=aHR0cHM6Ly9tb2JpbC45MnRlc3QuY2ZkL3lheWludDI0Lm0zdTg=
+
+BEİN
+https://mobil.92test.cfd/yayint24.m3u8
+
+
+https://filedn.eu/lFbxWYiY3kA8CrmV77Dgl38/ULUSAL%20VE%20YEREL%20CANLI%20TV%20KANALLARI.m3u
+https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/iptvsevenler.m3u
+https://surl.be/ozlem
+
+teleon Belgesel
+https://video-weaver.vie02.hls.ttvnw.net/v1/playlist/CtgGftqYvT98ZcRvNou4lb-IhUIsylPfSk-r6BM-mQjmu7SGGLKDg20wGbvasTUrq7xQIn1NB6AYPRR6wNfh68Snn2FLjggLaHqPo28NCN9zEcpJyV1gpcLilhaeApe5ETC__fPsSK8BPU8q8btn1g8J8a6MDFWhJLp0N-o70cbMznu95nQsKxkTNIjaziaRRoLnULUaeC5KYIXMcYsfEEccHZ8k3Q9fuXulnO8drOxkStXxMbtcw5L3oM1T2ZhuSpHMlyLLGrQAhbhlrAjiTVYTOPmEJ5coa124zu6w-3MstldrKO_hrRuhupNqbUGIfbjX6fXjPcHAE9CU0h73NKR5iBmBW_6AAOCxDamGNiem_D01kGJSKT1IztQnZSUT7f6DaoM0W6z5nw1gt2al8zXBS7UHMBEtZ4zbnf2-KrD1VlbOreflPutESEl2n8plHJomAb205aRl3OPtoYbaMO_E1teDKeHPUFLGNjmPuRhMizYWfSko-Vt6zJ0aArKHJbKDfV95TZGPK8UR23axx0z_SsehBc3TOehHDKM-j0Dt6z2PPb9V6YEuj81eNPc7FHqt04vrZm9fUvt_BNcuilEr3-JqxD4ETu1OsKB36XVfV4yN-6myOfDX-4Et_Jb1HuSXeG6-_Xi8m0XExeUgc-JL2zAAy_kIgW7QDlMCdG__vpmbj9z_TA4zpWnJSm3JvbmgKVaJxibI0RX2jwnel7qVSE5lzPvxtirbxjQ3Eb7L5Z9rOaVZQNViakVpx0Eb5f3WqJWgqUnYXNdUzJ7M7l6-Pblc7uoNhkgP00p2vcUCdMK5u29mZAUojeSz2RTLlo-d3HGUQ0Rp0kBB6k7zvRB27rm3d9xDL-N-idk2IJSZMDrHUsClSnf5sfgVkvMi3yBXY62RLXTfA9EGSSfHZvLQ7XjMe-x4G99KI4iW73KGlqTh9fmpFc9-Y9soOT8At-abf1tVlTspOLHGiPkuRKY2uAVi8AEm2xbjL8aw86aXLQaQUUEZ7gIJx_htRR3ivxSaagkvl_zEARZPZDJ-FrfHRxTVaIVanAeN8y1_KqaWpbEr5nZcclq8WdYM_z2GKcDAGxrsL5I3IwZ2Ws-J6Q_URUWpBsyO7KGc7MfPG_2AtOPjnNEtqH0utRoM1aXqxz66-Ztl49leIAEqCWV1LXdlc3QtMjC5Cw.m3u8
+
+
+
+
