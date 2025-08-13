@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Star TV" tvg-logo="http://ginikoturkish.com/channels/logo/star-tv-epg-.png" group-title="GinikoTV",Star TV
+https://trn03.tulix.tv/gt-star-tv/index.m3u8
+#EXTINF:-1 tvg-id="NOW TV" tvg-logo="http://ginikoturkish.com/channels/logo/now-tv-epg-.gif" group-title="GinikoTV",NOW TV
+https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
+#EXTINF:-1 tvg-id="ATV" tvg-logo="http://ginikoturkish.com/channels/logo/atv-epg-.jpg" group-title="GinikoTV",ATV
+https://trn03.tulix.tv/gt-a-tv-tv/index.m3u8
+#EXTINF:-1 tvg-id="ATV Avrupa" tvg-logo="http://ginikoturkish.com/channels/logo/atv-avrupa.png" group-title="GinikoTV",ATV Avrupa
+https://trn03.tulix.tv/gt-atvavrupa-tv/index.m3u8
+#EXTINF:-1 tvg-id="TV8" tvg-logo="http://ginikoturkish.com/channels/logo/tv8-epg-.png" group-title="GinikoTV",TV8
+https://trn03.tulix.tv/tv8-hdtv/index.m3u8
+#EXTINF:-1 tvg-id="TV8  Int" tvg-logo="http://ginikoturkish.com/channels/logo/tv8-int-epg-.jpg" group-title="GinikoTV",TV8  Int
+https://trn03.tulix.tv/gt-tv8int/index.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-d-epg-.jpg" group-title="GinikoTV",Kanal D
+https://trn03.tulix.tv/gt-kanald-tv/index.m3u8
+#EXTINF:-1 tvg-id="Show TV" tvg-logo="http://ginikoturkish.com/channels/logo/show-tv-epg-.png" group-title="GinikoTV",Show TV
+https://trn03.tulix.tv/gt-showtvs/index.m3u8
+#EXTINF:-1 tvg-id="TRT 1" tvg-logo="http://ginikoturkish.com/channels/logo/trt-1-epg-.png" group-title="GinikoTV",TRT 1
+https://trn03.tulix.tv/gt-trt1-tveu/index.m3u8
+#EXTINF:-1 tvg-id="TRT 4K" tvg-logo="http://ginikoturkish.com/channels/logo/trt-4k.jpg" group-title="GinikoTV",TRT 4K
+https://trn03.tulix.tv/gt-trt4k/index.m3u8
+#EXTINF:-1 tvg-id="TV100" tvg-logo="http://ginikoturkish.com/channels/logo/tv100-epg-.jpg" group-title="GinikoTV",TV100
+https://trn03.tulix.tv/gt-tv100/index.m3u8
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-logo="http://ginikoturkish.com/channels/logo/beyaz-tv-epg-.png" group-title="GinikoTV",Beyaz TV
+https://trn03.tulix.tv/gt-beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="TYTTURK" tvg-logo="http://ginikoturkish.com/channels/logo/tytturk.jpg" group-title="GinikoTV",TYTTURK
+https://trn03.tulix.tv/gt-tytturk/index.m3u8
+#EXTINF:-1 tvg-id="Kanal 7" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-7-epg-.jpg" group-title="GinikoTV",Kanal 7
+https://trn03.tulix.tv/gt-kanal7/index.m3u8
+#EXTINF:-1 tvg-id="Ulke TV" tvg-logo="http://ginikoturkish.com/channels/logo/ulke-tv.png" group-title="GinikoTV",Ulke TV
+https://trn03.tulix.tv/gt-ulketv/index.m3u8
+#EXTINF:-1 tvg-id="Sky 360" tvg-logo="http://ginikoturkish.com/channels/logo/sky-360-epg-.png" group-title="GinikoTV",Sky 360
+https://trn03.tulix.tv/gt-sky360/index.m3u8
+#EXTINF:-1 tvg-id="A2" tvg-logo="http://ginikoturkish.com/channels/logo/a2-epg-.png" group-title="GinikoTV",A2
+https://trn03.tulix.tv/gt-atva2tv/index.m3u8
+#EXTINF:-1 tvg-id="TLC Turkiye" tvg-logo="http://ginikoturkish.com/channels/logo/tlc-turkiye-epg-.png" group-title="GinikoTV",TLC Turkiye
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+#EXTINF:-1 tvg-id="DMAX Turkiye" tvg-logo="http://ginikoturkish.com/channels/logo/dmax-turkiye-epg-.png" group-title="GinikoTV",DMAX Turkiye
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-logo="http://ginikoturkish.com/channels/logo/ntv-epg-.png" group-title="GinikoTV",NTV
+https://trn03.tulix.tv/gt-ntv-tv/index.m3u8
+#EXTINF:-1 tvg-id="CNN Turk" tvg-logo="http://ginikoturkish.com/channels/logo/cnn-turk-epg-.png" group-title="GinikoTV",CNN Turk
+https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
+#EXTINF:-1 tvg-id="Halk TV" tvg-logo="http://ginikoturkish.com/channels/logo/halk-tv-epg-.jpg" group-title="GinikoTV",Halk TV
+https://trn03.tulix.tv/gt-halk-tvs/index.m3u8
+#EXTINF:-1 tvg-id="Sozcu TV" tvg-logo="http://ginikoturkish.com/channels/logo/sozcu-tv-epg-.png" group-title="GinikoTV",Sozcu TV
+https://trn03.tulix.tv/gt-sozcu-tv/index.m3u8
+#EXTINF:-1 tvg-id="Haber Turk" tvg-logo="http://ginikoturkish.com/channels/logo/haber-turk-epg-.png" group-title="GinikoTV",Haber Turk
+https://trn03.tulix.tv/gt-haberturktv/index.m3u8
+#EXTINF:-1 tvg-id="KRT Kultur TV" tvg-logo="http://ginikoturkish.com/channels/logo/krt-kultur-tv-epg-.jpg" group-title="GinikoTV",KRT Kultur TV
+https://trn03.tulix.tv/gt-krt--tv/index.m3u8
+#EXTINF:-1 tvg-id="Haber Global" tvg-logo="http://ginikoturkish.com/channels/logo/haber-global-epg-.jpg" group-title="GinikoTV",Haber Global
+https://trn03.tulix.tv/gt-haber-globaltv/index.m3u8
+#EXTINF:-1 tvg-id="Ekol TV" tvg-logo="http://ginikoturkish.com/channels/logo/ekol-tv.jpg" group-title="GinikoTV",Ekol TV
+https://trn03.tulix.tv/gt-ekoltv/index.m3u8
+#EXTINF:-1 tvg-id="A Haber -" tvg-logo="http://ginikoturkish.com/channels/logo/a-haber.png" group-title="GinikoTV",A Haber -
+https://trn03.tulix.tv/gt-ahabertv/index.m3u8
+#EXTINF:-1 tvg-id="A News" tvg-logo="http://ginikoturkish.com/channels/logo/a-news.jpg" group-title="GinikoTV",A News
+https://trn03.tulix.tv/gt-anews/index.m3u8
+#EXTINF:-1 tvg-id="A Para" tvg-logo="http://ginikoturkish.com/channels/logo/a-para.jpg" group-title="GinikoTV",A Para
+https://trn03.tulix.tv/gt-apara/index.m3u8
+#EXTINF:-1 tvg-id="EkoTurk" tvg-logo="http://ginikoturkish.com/channels/logo/ekot-rk-epg-.png" group-title="GinikoTV",EkoTurk
+https://trn03.tulix.tv/gt-ekoturk/index.m3u8
+#EXTINF:-1 tvg-id="Finans Turk" tvg-logo="http://ginikoturkish.com/channels/logo/finans-turk.gif" group-title="GinikoTV",Finans Turk
+https://yayin30.haber100.com/live/finansturk/index.m3u8
+#EXTINF:-1 tvg-id="Ulusal TV" tvg-logo="http://ginikoturkish.com/channels/logo/ulusal-tv-epg-.png" group-title="GinikoTV",Ulusal TV
+https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
+#EXTINF:-1 tvg-id="Kanal 24" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-24-epg-.png" group-title="GinikoTV",Kanal 24
+https://trn03.tulix.tv/gt-kanal24/index.m3u8
+#EXTINF:-1 tvg-id="TRT Haber" tvg-logo="http://ginikoturkish.com/channels/logo/trt-haber-epg-.png" group-title="GinikoTV",TRT Haber
+https://trn03.tulix.tv/gt-trthaber/index.m3u8
+#EXTINF:-1 tvg-id="TRT Turk" tvg-logo="http://ginikoturkish.com/channels/logo/trt-turk.png" group-title="GinikoTV",TRT Turk
+https://trn03.tulix.tv/gt-trtturk/index.m3u8
+#EXTINF:-1 tvg-id="TRT 2" tvg-logo="http://ginikoturkish.com/channels/logo/trt-2-epg-.gif" group-title="GinikoTV",TRT 2
+https://trn03.tulix.tv/gt-trt2/index.m3u8
+#EXTINF:-1 tvg-id="TRT World" tvg-logo="http://ginikoturkish.com/channels/logo/trt-world-epg-.png" group-title="GinikoTV",TRT World
+https://trn03.tulix.tv/gt-trtworld/index.m3u8
+#EXTINF:-1 tvg-id="TRT Spor" tvg-logo="http://ginikoturkish.com/channels/logo/trt-spor-epg-.png" group-title="GinikoTV",TRT Spor
+https://trn03.tulix.tv/gt-trt-spor1/index.m3u8
+#EXTINF:-1 tvg-id="TRT Spor Yildiz" tvg-logo="http://ginikoturkish.com/channels/logo/trt-spor-yildiz-epg-.png" group-title="GinikoTV",TRT Spor Yildiz
+https://trn03.tulix.tv/gt-trtspor2/index.m3u8
+#EXTINF:-1 tvg-id="TV8.5" tvg-logo="http://ginikoturkish.com/channels/logo/tv8-5-epg-.jpg" group-title="GinikoTV",TV8.5
+https://trn03.tulix.tv/gt-tv8_5/index.m3u8
+#EXTINF:-1 tvg-id="A Spor" tvg-logo="http://ginikoturkish.com/channels/logo/a-spor-epg-.jpg" group-title="GinikoTV",A Spor
+https://trn03.tulix.tv/gt-aspor/index.m3u8
+#EXTINF:-1 tvg-id="HT Spor" tvg-logo="http://ginikoturkish.com/channels/logo/ht-spor.jpg" group-title="GinikoTV",HT Spor
+https://trn03.tulix.tv/gt-htspor/index.m3u8
+#EXTINF:-1 tvg-id="Sports TV" tvg-logo="http://ginikoturkish.com/channels/logo/sports-tv-epg-.png" group-title="GinikoTV",Sports TV
+https://trn03.tulix.tv/gt-sporttv/index.m3u8
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="http://ginikoturkish.com/channels/logo/tivibu-spor-1.png" group-title="GinikoTV",Tivibu Spor
+https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
+#EXTINF:-1 tvg-id="Idman TV  (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/idman-tv-epg-.png" group-title="GinikoTV",Idman TV  (Azerbaijan)
+https://trn03.tulix.tv/gt-idmantv/index.m3u8
+#EXTINF:-1 tvg-id="CBC Sport Azerbaijan" tvg-logo="http://ginikoturkish.com/channels/logo/cbs-sport-epg-.png" group-title="GinikoTV",CBC Sport Azerbaijan
+https://trn03.tulix.tv/gt-cbcsport/index.m3u8
+#EXTINF:-1 tvg-id="Fenerbahce TV" tvg-logo="http://ginikoturkish.com/channels/logo/fenerbahce-tv.png" group-title="GinikoTV",Fenerbahce TV
+https://trn03.tulix.tv/gt-fbtv/index.m3u8
+#EXTINF:-1 tvg-id="Bengu Turk" tvg-logo="http://ginikoturkish.com/channels/logo/bengu-turk.gif" group-title="GinikoTV",Bengu Turk
+https://trn03.tulix.tv/gt-benguturk/index.m3u8
+#EXTINF:-1 tvg-id="Kanal Avrupa" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-avrupa.png" group-title="GinikoTV",Kanal Avrupa
+https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8
+#EXTINF:-1 tvg-id="TIVI6" tvg-logo="http://ginikoturkish.com/channels/logo/tivi6.jpg" group-title="GinikoTV",TIVI6
+https://trn03.tulix.tv/gt-tivi6/index.m3u8
+#EXTINF:-1 tvg-id="TV4" tvg-logo="http://ginikoturkish.com/channels/logo/tv4.jpg" group-title="GinikoTV",TV4
+https://trn03.tulix.tv/gt-tv4/index.m3u8
+#EXTINF:-1 tvg-id="TVNET" tvg-logo="http://ginikoturkish.com/channels/logo/tvnet-epg-.png" group-title="GinikoTV",TVNET
+https://trn03.tulix.tv/gt-tvnet/index.m3u8
+#EXTINF:-1 tvg-id="ON 4 TV" tvg-logo="http://ginikoturkish.com/channels/logo/on-4-tv-.jpg" group-title="GinikoTV",ON 4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-logo="http://ginikoturkish.com/channels/logo/trt-muzik.jpg" group-title="GinikoTV",TRT Muzik
+https://trn03.tulix.tv/gt-trtmusic/index.m3u8
+#EXTINF:-1 tvg-id="Power Turk" tvg-logo="http://ginikoturkish.com/channels/logo/.jpg" group-title="GinikoTV",Power Turk
+https://trn03.tulix.tv/gt-powerturk/index.m3u8
+#EXTINF:-1 tvg-id="PowerTurk Taptaze" tvg-logo="http://ginikoturkish.com/channels/logo/powerturk-taptaze.jpg" group-title="GinikoTV",PowerTurk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurk Slow" tvg-logo="http://ginikoturkish.com/channels/logo/powerturk-slow.jpg" group-title="GinikoTV",PowerTurk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurk Akustik" tvg-logo="http://ginikoturkish.com/channels/logo/powert-rk-akustik-tv.jpg" group-title="GinikoTV",PowerTurk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Number 1 Damar" tvg-logo="http://ginikoturkish.com/channels/logo/number-1-damar.jpg" group-title="GinikoTV",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number 1 Ask" tvg-logo="http://ginikoturkish.com/channels/logo/number-1-ask.jpg" group-title="GinikoTV",Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Turk Muzik Birligi TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/turk-muzik-birligi-tmb-tv.png" group-title="GinikoTV",Turk Muzik Birligi TV (Azerbaijan)
+https://trn03.tulix.tv/gt-tmb-azer/index.m3u8
+#EXTINF:-1 tvg-id="Slow Karadeniz TV" tvg-logo="http://ginikoturkish.com/channels/logo/slow-karadeniz-tv.jpg" group-title="GinikoTV",Slow Karadeniz TV
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Milyon TV" tvg-logo="http://ginikoturkish.com/channels/logo/milyon-tv.png" group-title="GinikoTV",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-id="TRT Cocuk" tvg-logo="http://ginikoturkish.com/channels/logo/trt-cocuk-epg-.jpg" group-title="GinikoTV",TRT Cocuk
+https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
+#EXTINF:-1 tvg-id="minika Cocuk" tvg-logo="http://ginikoturkish.com/channels/logo/minika-cocuk.png" group-title="GinikoTV",minika Cocuk
+https://trn03.tulix.tv/gt-minikacocuk/index.m3u8
+#EXTINF:-1 tvg-id="minika GO" tvg-logo="http://ginikoturkish.com/channels/logo/minika-go-epg-.png" group-title="GinikoTV",minika GO
+https://trn03.tulix.tv/gt-minikago/index.m3u8
+#EXTINF:-1 tvg-id="Life TV HD" tvg-logo="http://ginikoturkish.com/channels/logo/life-tv-kayseri.png" group-title="GinikoTV",Life TV HD
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kayseri TV1" tvg-logo="http://ginikoturkish.com/channels/logo/kayseri-tv1.png" group-title="GinikoTV",Kayseri TV1
+http://stream.taksimbilisim.com:1935/tv1/smil:tv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Haber 61 (Trabzon)" tvg-logo="http://ginikoturkish.com/channels/logo/haber-61-trabzon-.png" group-title="GinikoTV",Haber 61 (Trabzon)
+https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cay TV (Rize)" tvg-logo="http://ginikoturkish.com/channels/logo/cay-tv.jpg" group-title="GinikoTV",Cay TV (Rize)
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="Cekmekoy TV" tvg-logo="http://ginikoturkish.com/channels/logo/cekmekoy-tv.jpg" group-title="GinikoTV",Cekmekoy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/index.m3u8
+#EXTINF:-1 tvg-id="Kanal 3 (Afyon)" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-3.jpg" group-title="GinikoTV",Kanal 3 (Afyon)
+https://gintna100-2.tulix.tv/gin_live/kanal3afyon/b8bba6a0234dc4f142633a7e9856a521/689d2d3f/index.m3u8
+#EXTINF:-1 tvg-id="Kanal Urfa" tvg-logo="http://ginikoturkish.com/channels/logo/kanal-urfa.jpg" group-title="GinikoTV",Kanal Urfa
+https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Deha TV  - Denizli" tvg-logo="http://ginikoturkish.com/channels/logo/deha-tv-denizli.png" group-title="GinikoTV",Deha TV  - Denizli
+https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Diyanet TV" tvg-logo="http://ginikoturkish.com/channels/logo/diyanet-tv-epg-.png" group-title="GinikoTV",Diyanet TV
+https://trn03.tulix.tv/gt-trtdiyanet/index.m3u8
+#EXTINF:-1 tvg-id="Semerkand TV" tvg-logo="http://ginikoturkish.com/channels/logo/-semerkand-tv.jpg" group-title="GinikoTV",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Can TV" tvg-logo="http://ginikoturkish.com/channels/logo/can-tv.png" group-title="GinikoTV",Can TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 tvg-id="Lalegul TV" tvg-logo="http://ginikoturkish.com/channels/logo/lalegul-tv.png" group-title="GinikoTV",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="Kudus TV" tvg-logo="http://ginikoturkish.com/channels/logo/kudus-tv.jpg" group-title="GinikoTV",Kudus TV
+https://yayin30.haber100.com/live/kudustv/playlist.m3u8
+#EXTINF:-1 tvg-id="Dost TV" tvg-logo="http://ginikoturkish.com/channels/logo/dost-tv.jpg" group-title="GinikoTV",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-logo="http://ginikoturkish.com/channels/logo/trt-belgesel-epg-.png" group-title="GinikoTV",TRT Belgesel
+https://trn03.tulix.tv/gt-trtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="TRT Avaz" tvg-logo="http://ginikoturkish.com/channels/logo/trt-avaz-epg-.jpg" group-title="GinikoTV",TRT Avaz
+https://trn03.tulix.tv/gt-trtavaz/index.m3u8
+#EXTINF:-1 tvg-id="Yaban TV" tvg-logo="http://ginikoturkish.com/channels/logo/yaban-tv-epg-.png" group-title="GinikoTV",Yaban TV
+https://trn03.tulix.tv/gt-yabantv/index.m3u8
+#EXTINF:-1 tvg-id="Tarim TV" tvg-logo="http://ginikoturkish.com/channels/logo/tarim-tv.jpg" group-title="GinikoTV",Tarim TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-id="Kibris BRT1 (Turkish Cypriot)" tvg-logo="http://ginikoturkish.com/channels/logo/kibris-brt1-.png" group-title="GinikoTV",Kibris BRT1 (Turkish Cypriot)
+https://trn03.tulix.tv/gt-brt1/index.m3u8
+#EXTINF:-1 tvg-id="Kibris BRT2 (Turkish Cypriot)" tvg-logo="http://ginikoturkish.com/channels/logo/kibris-brt2.jpg" group-title="GinikoTV",Kibris BRT2 (Turkish Cypriot)
+https://trn03.tulix.tv/gt-brt2/index.m3u8
+#EXTINF:-1 tvg-id="Turkmeneli TV" tvg-logo="http://ginikoturkish.com/channels/logo/t-rkmeneli-tv.png" group-title="GinikoTV",Turkmeneli TV
+https://trn09.bozztv.com/gt-turkmeneli/index.m3u8
+#EXTINF:-1 tvg-id="Ictimai TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/ictimai-tv.gif" group-title="GinikoTV",Ictimai TV (Azerbaijan)
+https://trn03.tulix.tv/gt-ictimai/index.m3u8
+#EXTINF:-1 tvg-id="ARB TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/arb-tv.gif" group-title="GinikoTV",ARB TV (Azerbaijan)
+https://trn03.tulix.tv/gt-arb-tv1/index.m3u8
+#EXTINF:-1 tvg-id="ARB 24 TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/arb-24-tv.gif" group-title="GinikoTV",ARB 24 TV (Azerbaijan)
+https://trn03.tulix.tv/gt-arb24-tv1/index.m3u8
+#EXTINF:-1 tvg-id="Start TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/start-tv.png" group-title="GinikoTV",Start TV (Azerbaijan)
+https://trn03.tulix.tv/gt-startv-azer/index.m3u8
+#EXTINF:-1 tvg-id="Medeniyyet TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/medeniyyet-tv.gif" group-title="GinikoTV",Medeniyyet TV (Azerbaijan)
+https://trn03.tulix.tv/gt-medeniyyet/index.m3u8
+#EXTINF:-1 tvg-id="Real TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/real-tv.png" group-title="GinikoTV",Real TV (Azerbaijan)
+https://trn03.tulix.tv/gt-realtv/index.m3u8
+#EXTINF:-1 tvg-id="Zexer Xeber (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/zexer-xeber.png" group-title="GinikoTV",Zexer Xeber (Azerbaijan)
+https://trn03.tulix.tv/gt-zexer-xeber/index.m3u8
+#EXTINF:-1 tvg-id="Kepez TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/kepez-tv.png" group-title="GinikoTV",Kepez TV (Azerbaijan)
+https://trn03.tulix.tv/gt-kepez-tv-azeri/index.m3u8
+#EXTINF:-1 tvg-id="Space TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/space-tv.jpg" group-title="GinikoTV",Space TV (Azerbaijan)
+https://trn03.tulix.tv/gt-spacetv/index.m3u8
+#EXTINF:-1 tvg-id="AzStar TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/azstar-tv.png" group-title="GinikoTV",AzStar TV (Azerbaijan)
+https://live.livestreamtv.ca/azstar/smil:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="Baku TV (Azerbaijan)" tvg-logo="http://ginikoturkish.com/channels/logo/baku-tv.gif" group-title="GinikoTV",Baku TV (Azerbaijan)
+https://rtmp.baku.tv/hls/bakutv.m3u8

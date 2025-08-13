@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10601" tvg-name="TR: TRT1 HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_1_3D_2A_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: TRT1 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/2042
+#EXTINF:-1 tvg-id="10601" tvg-name="TR: TRT1" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_1_3D_2A_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: TRT1
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/44102
+#EXTINF:-1 tvg-id="10506" tvg-name="TR: TRT2 HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_3E9_0_FF00_1A4AAD8_0_0_0.png" group-title="TR: ULUSAL",TR: TRT2 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/47425
+#EXTINF:-1 tvg-id="10305" tvg-name="TR: ATV HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_283C_9F61_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: ATV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/32687
+#EXTINF:-1 tvg-id="10305" tvg-name="TR: ATV" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_283C_9F61_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: ATV
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/48736
+#EXTINF:-1 tvg-id="10805" tvg-name="TR: STAR TV HD" tvg-logo="https://seyredursunask.cf/pic/ns/star-drispocupr.default.png" group-title="TR: ULUSAL",TR: STAR TV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/34565
+#EXTINF:-1 tvg-id="10805" tvg-name="TR: STAR TV" tvg-logo="https://seyredursunask.cf/pic/ns/star-drispocupr.default.png" group-title="TR: ULUSAL",TR: STAR TV
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/7908
+#EXTINF:-1 tvg-id="11000" tvg-name="TR: SHOW TV HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_16_2AF8_A1B9_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: SHOW TV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/16571
+#EXTINF:-1 tvg-id="11000" tvg-name="TR: SHOW TV" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_2B5C_A1BA_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: SHOW TV
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/50571
+#EXTINF:-1 tvg-id="1701" tvg-name="TR: KANAL D HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_6A5_7_42_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: KANAL D HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/37274
+#EXTINF:-1 tvg-id="1701" tvg-name="TR: KANAL D" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_6A5_7_42_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: KANAL D
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/30232
+#EXTINF:-1 tvg-id="12700" tvg-name="TR: NOW HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_19_3200_A413_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: NOW HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/20841
+#EXTINF:-1 tvg-id="12700" tvg-name="TR: NOW" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_19_3200_A413_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: NOW
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/15099
+#EXTINF:-1 tvg-id="15300" tvg-name="TR: TV8 HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_3BC4_A415_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: TV8 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/34898
+#EXTINF:-1 tvg-id="15300" tvg-name="TR: TV8" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_3BC4_A415_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: TV8
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/6647
+#EXTINF:-1 tvg-id="15301" tvg-name="TR: TV8.5 HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_3BC5_A415_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: TV8.5 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/45081
+#EXTINF:-1 tvg-id="51201" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://seyredursunask.cf/pic/7east/1_0_11_1FAB_50DC_7E_460000_0_0_0.png" group-title="TR: ULUSAL",TR: BEYAZ TV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/48618
+#EXTINF:-1 tvg-id="1703" tvg-name="TR: TEVE2 HD" tvg-logo="https://seyredursunask.cf/pic/7east/1_0_11_1E7E_5208_7E_460000_0_0_0.png" group-title="TR: ULUSAL",TR: TEVE2 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/36787
+#EXTINF:-1 tvg-id="16402" tvg-name="TR: A2 HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_284A_9F61_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: A2 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/46617
+#EXTINF:-1 tvg-id="52215" tvg-name="TR: EKOL TV" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_16_391C_A21D_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: EKOL TV
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/51432
+#EXTINF:-1 tvg-id="10306" tvg-name="TR: A HABER HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_28A1_9CA6_42E_1A40000_0_0_0.png" group-title="TR: HABER",TR: A HABER HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/32568
+#EXTINF:-1 tvg-id="10602" tvg-name="TR: TRT HABER HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_1A_0_FF00_1A4AAD8_0_0_0.png" group-title="TR: HABER",TR: TRT HABER HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/41544
+#EXTINF:-1 tvg-id="11001" tvg-name="TR: HABERTURK HD" tvg-logo="https://seyredursunask.cf/pic/ns/haberturk.default.png" group-title="TR: HABER",TR: HABERTURK HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/8082
+#EXTINF:-1 tvg-id="1702" tvg-name="TR: CNN TURK HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_6A6_7_42_1A40000_0_0_0.png" group-title="TR: HABER",TR: CNN TURK HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/7007
+#EXTINF:-1 tvg-id="10806" tvg-name="TR: NTV HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_2A31_9E99_42E_1A40000_0_0_0.png" group-title="TR: HABER",TR: NTV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/51094
+#EXTINF:-1 tvg-id="16700" tvg-name="TR: 24 TV HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_40D8_A2E6_42E_1A40000_0_0_0.png" group-title="TR: HABER",TR: 24 TV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/1480
+#EXTINF:-1 tvg-id="52200" tvg-name="TR: TV100 HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_19_C9B0_76C1_42E_1A40000_0_0_0.png" group-title="TR: HABER",TR: TV100 HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/25564
+#EXTINF:-1 tvg-id="51819" tvg-name="TR: HABERGLOBAL HD" tvg-logo="https://seyredursunask.cf/pic/7east/1_0_11_271_C47C_7E_460000_0_0_0.png" group-title="TR: HABER",TR: HABERGLOBAL HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/39305
+#EXTINF:-1 tvg-id="11601" tvg-name="TR: ULKE TV HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_2D51_A02B_42E_1A40000_0_0_0.png" group-title="TR: HABER",TR: ULKE TV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/39246
+#EXTINF:-1 tvg-id="3711" tvg-name="TR: TYT TURK HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_C868_9CA5_42E_1A40000_0_0_0.png" group-title="TR: ULUSAL",TR: TYT TURK HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/60728
+#EXTINF:-1 tvg-id="14813" tvg-name="TR: HISTORY HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_39DD_A989_42E_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: HISTORY HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/27016
+#EXTINF:-1 tvg-id="3605" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_19_3332_A1BC_1_1A42FA4_0_0_0.png" group-title="TR: BELGESEL",TR: NATIONAL GEOGRAPHIC HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/44073
+#EXTINF:-1 tvg-id="3604" tvg-name="TR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_11_3CA5_C5A8_2A_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: NATIONAL GEOGRAPHIC WILD HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/2257
+#EXTINF:-1 tvg-id="1901" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_76D_9_42_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: DISCOVERY CHANNEL HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/46242
+#EXTINF:-1 tvg-id="10815" tvg-name="TR: DMAX HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_2A3F_9E99_42E_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: DMAX HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/19082
+#EXTINF:-1 tvg-id="1712" tvg-name="TR: LOVE NATURE HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_6B0_7_42_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: LOVE NATURE HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/25522
+#EXTINF:-1 tvg-id="2806" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="https://seyredursunask.cf/pic/ns/viasathistoryhd.default.png" group-title="TR: BELGESEL",TR: VIASAT HISTORY HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/16509
+#EXTINF:-1 tvg-id="16903" tvg-name="TR: DA VINCI HD" tvg-logo="https://seyredursunask.cf/pic/7east/1_0_11_14EF_C6D4_7E_460000_0_0_0.png" group-title="TR: BELGESEL",TR: DA VINCI HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/2969
+#EXTINF:-1 tvg-id="1713" tvg-name="TR: BBC EARTH HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_6B1_7_42_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: BBC EARTH HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/41999
+#EXTINF:-1 tvg-id="10819" tvg-name="TR: TLC HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_16_2A43_9E99_42E_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: TLC HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/2404
+#EXTINF:-1 tvg-id="15133" tvg-name="TR: TARIH TV HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_3B1D_A98A_42E_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: TARIH TV HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/49617
+#EXTINF:-1 tvg-id="10604" tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_19_2909_9D6D_42E_1A40000_0_0_0.png" group-title="TR: BELGESEL",TR: TRT BELGESEL HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/50480
+#EXTINF:-1 tvg-id="51420" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="https://seyredursunask.cf/pic/ns/beinsportshaber.default.png" group-title="TR: BEIN SPORTS",TR: beIN SPORTS HABER HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/7891
+#EXTINF:-1 tvg-id="16542" tvg-name="TR: beIN SPORTS 1 PLATIN" tvg-logo="https://seyredursunask.cf/pic/ns/bein_sports_1.png" group-title="TR: BEIN SPORTS",TR: beIN SPORTS 1 PLATIN
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/7231
+#EXTINF:-1 tvg-id="16542" tvg-name="TR: TICARI beIN SPORTS 1" tvg-logo="https://seyredursunask.cf/pic/ns/bein_sports_1.png" group-title="TR: BEIN SPORTS",TR: TICARI beIN SPORTS 1
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/28771
+#EXTINF:-1 tvg-id="16542" tvg-name="TR: beIN SPORTS 1 PLATIN YEDEK" tvg-logo="https://seyredursunask.cf/pic/ns/bein_sports_1.png" group-title="TR: BEIN SPORTS",TR: beIN SPORTS 1 PLATIN YEDEK
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/18753
+#EXTINF:-1 tvg-id="16542" tvg-name="TR: BEIN SPOR 1" tvg-logo="https://seyredursunask.cf/pic/ns/bein_sports_1.png" group-title="TR: BEIN SPORTS",TR: BEIN SPOR 1
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/40881
+#EXTINF:-1 tvg-id="16501" tvg-name="TR: beIN SPORTS MAX 1 PLATIN" tvg-logo="https://seyredursunask.cf/pic/ns/bein_sports_max_1_fix.png" group-title="TR: BEIN SPORTS",TR: beIN SPORTS MAX 1 PLATIN
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/10015
+#EXTINF:-1 tvg-id="16501" tvg-name="TR: beIN SPOR MAX 1" tvg-logo="https://seyredursunask.cf/pic/ns/beinsportsmax1.default.png" group-title="TR: BEIN SPORTS",TR: beIN SPOR MAX 1
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/15164
+#EXTINF:-1 tvg-id="mgliveeventkanallari" tvg-name="TR: EXXEN SPORT 1 MAC ZAMANI" tvg-logo="https://seyredursunask.cf/pic/ns/ticariexxensport.default.png" group-title="TR: EXXEN SPOR",TR: EXXEN SPORT 1 MAC ZAMANI
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/1694
+#EXTINF:-1 tvg-id="10603" tvg-name="TR: TRT SPOR HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_19_0_FF00_1A4AAD8_0_0_0.png" group-title="TR: SPOR",TR: TRT SPOR HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/41126
+#EXTINF:-1 tvg-id="10603" tvg-name="TR: TRT SPOR SD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_19_0_FF00_1A4AAD8_0_0_0.png" group-title="TR: SPOR",TR: TRT SPOR SD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/19866
+#EXTINF:-1 tvg-id="10307" tvg-name="TR: A SPOR HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_283E_9F61_42E_1A40000_0_0_0.png" group-title="TR: SPOR",TR: A SPOR HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/52433
+#EXTINF:-1 tvg-id="10307" tvg-name="TR: A SPOR SD" tvg-logo="https://seyredursunask.cf/pic/ns/aspor.default.png" group-title="TR: SPOR",TR: A SPOR SD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/19062
+#EXTINF:-1 tvg-id="52220" tvg-name="TR: HT SPOR HD" tvg-logo="https://seyredursunask.cf/pic/42east/1_0_1_CBFC_A925_42E_1A40000_0_0_0.png" group-title="TR: SPOR",TR: HT SPOR HD
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/10028
+#EXTINF:-1 tvg-id="noepg" tvg-name="TR: EKOL SPORTS" tvg-logo="" group-title="TR: SPOR",TR: EKOL SPORTS
+http://canli.livecdn.com.tr:8880/MuratDenhag/evtest/76863
+
+
+
